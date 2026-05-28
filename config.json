@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routercelete",
+        "uuid": 14592017,
+        "checksum": "g2yb4i"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
